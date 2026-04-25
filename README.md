@@ -1,0 +1,1 @@
+Esse repositório contém o projeto Jarvis, uma aplicação web que descreva o propósito,por exemplo, automatiza vendas . Para executar, clone o repositório,intale as depenÊncias com npm intall, e inicie com npm start. Adapte conforme o que o seu projeto faz, e ai fica bem explicatinho!
